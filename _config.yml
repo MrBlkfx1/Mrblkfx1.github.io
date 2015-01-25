@@ -1,9 +1,11 @@
 # Site settings
-title: Raheem Abdul
+title: Raheem Abdul - Otaku|Developer|Student
 email: RaheemAbdulMutakabbir@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello. My name is Raheem Abdul and welcome to my blog. Here you'll find two things.
-  Blog posts detailing my life, projects and general musings. Oh. Yeah. You'll also find my Resume here too. 
+  Hello. My name is Raheem Abdul and welcome to my blog.
+  Here you'll find my blog posts on code and my other
+  personal interests. You could probably find my resume
+  around here aswell. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://RaheemAbdul.ninja" # the base hostname & protocol for your site
 twitter_username: MrBlkfx1
