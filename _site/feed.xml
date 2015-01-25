@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <description>Hello. My name is Raheem Abdul and welcome to my blog. Here you&#39;ll find my blog posts on code and my other personal interests. You could probably find my resume around here aswell. 
+    <title>Raheem Abdul</title>
+    <description>Hello. My name is Raheem Abdul. Welcome to my blog! Here you&#39;ll find my blog posts on code and my other personal interests. You could probably find my resume around here aswell. 
 </description>
     <link>http://RaheemAbdul.ninja/</link>
     <atom:link href="http://RaheemAbdul.ninja/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 25 Jan 2015 17:42:47 -0500</pubDate>
-    <lastBuildDate>Sun, 25 Jan 2015 17:42:47 -0500</lastBuildDate>
+    <pubDate>Sun, 25 Jan 2015 18:07:46 -0500</pubDate>
+    <lastBuildDate>Sun, 25 Jan 2015 18:07:46 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
