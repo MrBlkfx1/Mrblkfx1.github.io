@@ -1,6 +1,6 @@
 ---
 layout: other
 title: Resume
-permalink: /about/
+permalink: /resume/
 ---
 Coming Soon....
