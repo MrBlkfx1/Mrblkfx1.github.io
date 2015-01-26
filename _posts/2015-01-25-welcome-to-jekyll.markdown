@@ -1,25 +1,24 @@
 ---
 layout: post
-title:  "Welcome"
+title:  "Playing Around With Jekyll"
 date:   2015-01-25 14:33:52
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+Today I decided to do something with one of my many domains - finally. That something was to create
+a developer blog. There were a ton of ways to do this. I mean, if you just google blog you'll find 
+a million different services that all want to create one for you. Since I've used most of the popular 
+blogging engines and services - I went with something new this time. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+As most can tell from the title, I went with Jekyll. The static site and blog generator. 
+I have to say, I was pleasently suprised when I realized how easy it was to get setup. 
+With Jekyll and using Github pages to host, I literally was up and running under a hour.
+Suprisngly, Jekyll has very deep customization which I will definitely be taking advantage of. 
 
-Jekyll also offers powerful support for code snippets:
+I'll wrap up this post for now. I'll add a new one when the blog is finished. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+
+[MrBlkfx1-GH]: http://github.com/MrBlkfx1
+[MrBlkfx1-FB]: https://Facebook.com/MrBlkfx1
+
