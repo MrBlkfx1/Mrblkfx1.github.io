@@ -6,8 +6,6 @@ categories: jekyll update markdoww
 published: true
 ---
 
-![Alt text](http://s29.postimg.org/wrg7t6ogn/Github_Ruby.png "Octocat")
-
 ## Getting to know Markdown
 
 So, I've finally got my developer blog up and running. I've been playing around with jekyll for hours - literally. As a total noob to it, I've found that the learning curve isn't very bad. Surprisingly, while setting up this blog, It was the firt time i've ever used markdown. I knew what it was but I never used it before. It's suprisingly very simple but powerful. While, It'll definitely take some getting used to, I think i'll grow to enjoy using it for blogging. 
