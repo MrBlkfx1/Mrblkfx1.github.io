@@ -4,7 +4,7 @@ title:  "Playing Around With Jekyll"
 date:   2015-01-25 14:33:52
 categories: jekyll update
 ---
-![Alt text](http://spinnakr.com/blog/wp-content/uploads/2013/02/Github-Ruby.png "Octocat")
+![Alt text](http://s29.postimg.org/wrg7t6ogn/Github_Ruby.png "Octocat")
 
 Today I decided to do something with one of my many domains - finally. That something was to create
 a developer blog. There were a ton of ways to do this. I mean, if you just google blog you'll find 
