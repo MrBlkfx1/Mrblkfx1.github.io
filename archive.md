@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: other
+title: Archive
+permalink: /archive/
 ---
-
-  <h1 class="page-heading">Recent Posts</h1>
+ <h1 class="page-heading">Archive</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -16,6 +17,3 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
