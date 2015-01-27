@@ -5,27 +5,27 @@
     <description>Hello. My name is Raheem Abdul. Welcome to my blog! Here you'll find blog posts on code and my other personal interests.</description>
     <link>http://RaheemAbdul.ninja/</link>
     <atom:link href="http://RaheemAbdul.ninja/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 26 Jan 2015 19:49:50 -0500</pubDate>
-    <lastBuildDate>Mon, 26 Jan 2015 19:49:50 -0500</lastBuildDate>
+    <pubDate>Tue, 27 Jan 2015 01:50:48 -0500</pubDate>
+    <lastBuildDate>Tue, 27 Jan 2015 01:50:48 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Markdown and Jekyll</title>
         <description>&lt;h2 id=&quot;getting-to-know-markdown&quot;&gt;Getting to know Markdown&lt;/h2&gt;
 
-&lt;p&gt;So, I’ve finally got my developer blog up and running. I’ve been playing around with jekyll for hours - literally. As a total noob to it, I’ve found that the learning curve isn’t very bad. Surprisingly, while setting up this blog, It was the firt time i’ve ever used markdown. I knew what it was but I never used it before. It’s suprisingly very simple but powerful. While, It’ll definitely take some getting used to, I think i’ll grow to enjoy using it for blogging. &lt;/p&gt;
+&lt;p&gt;So, I’ve finally got my developer blog up and running. The task has been excited and exhausting all at the same time. Believe it or not, i’ve been playing around with jekyll for hours - literally. As a total noob to it, I’ve found that the learning curve isn’t very bad. Surprisingly, while setting up this blog, It was the first time that i’ve ever used markdown. The term is not new to me. But, this was the first time i’ve ever put it into action. With that said, I’ve found that it’s very simple yet very powerful. It’ll definitely take some getting used to but, I think i’ll grow to enjoy using it for blogging. &lt;/p&gt;
 
-&lt;p&gt;Right now, the site is pretty bare bones. I prefer it this way. Although, I do have a couple things in mind that will flesh it out a bit. Those ideas are listed below. &lt;/p&gt;
+&lt;p&gt;Right now, the site is pretty bare bones. I prefer it this way. However, I do have a couple ideas in mind that will flesh it out a bit. Those ideas are listed below. &lt;/p&gt;
 
 &lt;h2 id=&quot;whats-next-for-the-site&quot;&gt;What’s next for the site&lt;/h2&gt;
-&lt;hr /&gt;
+
 &lt;ul&gt;
   &lt;li&gt;About Page&lt;/li&gt;
   &lt;li&gt;Resume Page&lt;/li&gt;
   &lt;li&gt;Archive Page&lt;/li&gt;
-  &lt;li&gt;Comments for Posts
-***&lt;/li&gt;
+  &lt;li&gt;Comments for Posts&lt;/li&gt;
 &lt;/ul&gt;
+
 </description>
         <pubDate>Mon, 26 Jan 2015 00:00:00 -0500</pubDate>
         <link>http://RaheemAbdul.ninja/jekyll/update/markdown/2015/01/26/Markdown%20and%20Jekyll.html</link>
@@ -49,12 +49,12 @@ a developer blog. There were a ton of ways to do this. I mean, if you just googl
 a million different services that all want to create one for you. Since I’ve used most of the popular 
 blogging engines and services - I went with something new this time. &lt;/p&gt;
 
-&lt;p&gt;As most can tell from the title, I went with Jekyll. The static site and blog generator. 
+&lt;p&gt;Made obvious by the title, I went with Jekyll. The static site and blog generator. 
 I have to say, I was pleasantly suprised when I realized how easy it was to get setup. 
 With Jekyll and using Github pages to host, I literally was up and running under a hour.
-Suprisingly, Jekyll has very deep customization. I’ll definitely will definitely be taking advantage of this. &lt;/p&gt;
+Suprisingly, Jekyll has very deep customization - something i’m very excited to delve deeper into. &lt;/p&gt;
 
-&lt;p&gt;I’ll wrap up this post for now. I’ll add a new one when the blog is finished.&lt;/p&gt;
+&lt;p&gt;I’ll wrap up this post for now. A update will be added when the blog is fleshed out a bit more.&lt;/p&gt;
 </description>
         <pubDate>Sun, 25 Jan 2015 00:00:00 -0500</pubDate>
         <link>http://RaheemAbdul.ninja/jekyll/update/2015/01/25/Playing%20Around%20With%20Jekyll.html</link>
