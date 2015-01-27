@@ -1,2 +1,2 @@
 # Mrblkfx1.github.io
-Personal Blog
+Personal / Developer Blog and Resume

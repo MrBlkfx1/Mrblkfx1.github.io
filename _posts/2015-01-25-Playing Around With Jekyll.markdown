@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Playing Around With Jekyll
-date: {}
+date: 2015-01-25
 categories: jekyll update
 published: true
 ---

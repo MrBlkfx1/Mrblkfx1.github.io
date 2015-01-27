@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Markdown and Jekyll
-date: {}
-categories: jekyll update markdoww
+date: 2015-01-26
+categories: jekyll update markdown
 published: true
 ---
 
