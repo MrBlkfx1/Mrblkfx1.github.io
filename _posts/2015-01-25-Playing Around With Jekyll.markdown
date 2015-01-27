@@ -6,7 +6,7 @@ categories: jekyll update
 published: true
 ---
 
-![Alt text](http://s29.postimg.org/wrg7t6ogn/Github_Ruby.png "Octocat")
+## Setting things up
 
 Today I decided to do something with one of my many domains - finally. That something was to create
 a developer blog. There were a ton of ways to do this. I mean, if you just google blog you'll find 
