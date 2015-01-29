@@ -1,6 +1,6 @@
 ---
 layout: other
 title: Resume
-permalink: raheema.azurewebsites.net/
+permalink: 
 ---
 Coming Soon....
