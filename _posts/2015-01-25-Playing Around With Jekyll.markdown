@@ -25,6 +25,5 @@ That was damn easy right? I know. I know.
 
 Anyways, with Jekyll and using [Github pages](https://pages.github.com/ "Github") to host, my site was live within an hour. What is Github pages you ask? Well, that's a post for another time - look forward to it. But, let's just say it's an awesome service provided by Github for thier users. Now, with Jekyll back in mind, I realized something that wasn't readily apparent at first. When you look a bit deeper into the open source project that is Jekyll. You will find a treasure trove of customization and flexability. For something that was so simple use, I wasn't expecting a lot of sophistication. With that said, I am really excited to delve deeper into this project. In the near future, I really want to have this blog looking nice and strutured to provide useful and engaging material. I'll wrap up this post for now. A update will be added when the blog is fleshed out a bit more.
 
-**Heres links for Jekyll and Github pages for the peeps who didn't realize the words were hyperlinked.** 
 Jekyll: <http://jekyllrb.com/>
 Github Pages: <https://pages.github.com/>
